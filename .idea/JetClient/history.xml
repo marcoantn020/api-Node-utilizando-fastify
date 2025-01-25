@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1737807867823" />
+          <option name="id" value="c23e5f43-d026-4e35-bd03-e741b7b1c4b6" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="8ab8844a-11aa-4b4e-a477-df93c829128c" />
+              <option name="method" value="GET" />
+              <option name="name" value="Create user" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJtZXNzYWdlIjoiQVBJIGlzIHJ1bm5pbmcifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;message&quot;: &quot;API is running&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="90" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="28" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 12:24:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c23e5f43-d026-4e35-bd03-e741b7b1c4b6" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;message&quot;:&quot;API is running&quot;}" />
+              <option name="size" value="28" />
+              <option name="time" value="107" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737807882577" />
+          <option name="id" value="fe367769-b9fe-4ff2-8b44-f2222f30125a" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="8ab8844a-11aa-4b4e-a477-df93c829128c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create user" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IkNhbm5vdCBkZXN0cnVjdHVyZSBwcm9wZXJ0eSAnbmFtZScgb2YgJ3JlcS5ib2R5JyBhcyBpdCBpcyB1bmRlZmluZWQuIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;Cannot destructure property 'name' of 'req.body' as it is undefined.&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="131" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 12:24:42 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="fe367769-b9fe-4ff2-8b44-f2222f30125a" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Cannot destructure property 'name' of 'req.body' as it is undefined.&quot;}" />
+              <option name="size" value="131" />
+              <option name="time" value="9" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737808131383" />
+          <option name="id" value="062484be-a54c-480d-8622-e52c9eacb92b" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;marco&quot;,&#10;  email: &quot;marco@marco.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="8ab8844a-11aa-4b4e-a477-df93c829128c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create user" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="e30=" />
+              <option name="bodyString" value="{}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="3" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="2" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 12:28:51 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="062484be-a54c-480d-8622-e52c9eacb92b" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{}" />
+              <option name="size" value="2" />
+              <option name="time" value="18" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737808265851" />
+          <option name="id" value="c4e997ce-cc6d-48e4-bfd4-72fb4c35e4c3" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;antonio&quot;,&#10;  email: &quot;antonio@antonio.com&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="id" value="8ab8844a-11aa-4b4e-a477-df93c829128c" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create user" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/users" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6Ijk3ZDQ4YWQwLTA5MDgtNDZlMS04M2I5LWM1NmM5YjdmYTM3YyIsIm5hbWUiOiJhbnRvbmlvIiwiZW1haWwiOiJhbnRvbmlvQGFudG9uaW8uY29tIiwiY3JlYXRlZEF0IjoiMjAyNS0wMS0yNVQxMjozMTowNS44NDBaIiwidXBkYXRlZEF0IjoiMjAyNS0wMS0yNVQxMjozMTowNS44NDBaIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;97d48ad0-0908-46e1-83b9-c56c9b7fa37c&quot;,&#10;  &quot;name&quot;: &quot;antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@antonio.com&quot;,&#10;  &quot;createdAt&quot;: &quot;2025-01-25T12:31:05.840Z&quot;,&#10;  &quot;updatedAt&quot;: &quot;2025-01-25T12:31:05.840Z&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="170" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 12:31:05 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c4e997ce-cc6d-48e4-bfd4-72fb4c35e4c3" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;97d48ad0-0908-46e1-83b9-c56c9b7fa37c&quot;,&quot;name&quot;:&quot;antonio&quot;,&quot;email&quot;:&quot;antonio@antonio.com&quot;,&quot;createdAt&quot;:&quot;2025-01-25T12:31:05.840Z&quot;,&quot;updatedAt&quot;:&quot;2025-01-25T12:31:05.840Z&quot;}" />
+              <option name="size" value="170" />
+              <option name="time" value="24" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737811262243" />
+          <option name="id" value="f7f12a4d-b278-4c60-b47b-0127f164b4aa" />
+          <option name="request">
+            <requestState>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJtZXNzYWdlIjoiQXV0aCBlbWFpbCBpcyByZXF1aXJlZCBvbiBoZWFkZXIifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;message&quot;: &quot;Auth email is required on header&quot;&#10;}" />
+              <option name="code" value="401" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="46" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 13:21:02 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f7f12a4d-b278-4c60-b47b-0127f164b4aa" />
+              <option name="message" value="Unauthorized" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;message&quot;:&quot;Auth email is required on header&quot;}" />
+              <option name="size" value="46" />
+              <option name="time" value="10" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737811341697" />
+          <option name="id" value="1f122df0-b4ac-45b9-8f7d-d4dee3c9f3c3" />
+          <option name="request">
+            <requestState>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IkNhbm5vdCBkZXN0cnVjdHVyZSBwcm9wZXJ0eSAnbmFtZScgb2YgJ3JlcS5ib2R5JyBhcyBpdCBpcyB1bmRlZmluZWQuIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;Cannot destructure property 'name' of 'req.body' as it is undefined.&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="131" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 13:22:21 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1f122df0-b4ac-45b9-8f7d-d4dee3c9f3c3" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Cannot destructure property 'name' of 'req.body' as it is undefined.&quot;}" />
+              <option name="size" value="131" />
+              <option name="time" value="13" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737811373922" />
+          <option name="id" value="212de421-9937-4370-8809-6cef0d683cde" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;antonio&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IkNvbnRhY3Qgbm90IGZvdW5kIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;Contact not found&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="80" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 13:22:53 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="212de421-9937-4370-8809-6cef0d683cde" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Contact not found&quot;}" />
+              <option name="size" value="80" />
+              <option name="time" value="17" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737811422748" />
+          <option name="id" value="a6a945e9-07c0-40c2-84d7-cd2303800b8e" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@antonio.com&quot;,&#10;  &quot;phone&quot;: &quot;1799999999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IkNvbnRhY3Qgbm90IGZvdW5kIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;Contact not found&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="80" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 13:23:42 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="a6a945e9-07c0-40c2-84d7-cd2303800b8e" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Contact not found&quot;}" />
+              <option name="size" value="80" />
+              <option name="time" value="6" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737811425048" />
+          <option name="id" value="250c40d5-6b32-492e-8ab7-36b3501742f1" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@antonio.com&quot;,&#10;  &quot;phone&quot;: &quot;1799999999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IkNvbnRhY3Qgbm90IGZvdW5kIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;Contact not found&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="80" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 13:23:45 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="250c40d5-6b32-492e-8ab7-36b3501742f1" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Contact not found&quot;}" />
+              <option name="size" value="80" />
+              <option name="time" value="5" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737811542315" />
+          <option name="id" value="bb449626-de48-41eb-9a0f-8f129db8bd89" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjYyNDRhZTVkLTc5YmItNGY0NC05MDBlLTU2YjQ2NzU1YjNjYSIsIm5hbWUiOiJBbnRvbmlvIiwiZW1haWwiOiJhbnRvbmlvQHRlc3RlLmNvbSIsInBob25lIjoiMTcgOTk5OSA5OTk5IiwidXNlcklkIjoiYWUyYzhhNDEtMDJhYi00MGU4LWEwNWQtMmMxMThlNmMwMTQwIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&#10;  &quot;name&quot;: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;,&#10;  &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="161" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 13:25:42 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="bb449626-de48-41eb-9a0f-8f129db8bd89" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&quot;name&quot;:&quot;Antonio&quot;,&quot;email&quot;:&quot;antonio@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 9999&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}" />
+              <option name="size" value="161" />
+              <option name="time" value="29" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737815215925" />
+          <option name="id" value="fbd56813-2a86-47a9-a455-9d7613e89fe0" />
+          <option name="request">
+            <requestState>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="GET" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2MjQ0YWU1ZC03OWJiLTRmNDQtOTAwZS01NmI0Njc1NWIzY2EiLCJuYW1lIjoiQW50b25pbyIsImVtYWlsIjoiYW50b25pb0B0ZXN0ZS5jb20iLCJwaG9uZSI6IjE3IDk5OTkgOTk5OSIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&#10;    &quot;name&quot;: &quot;Antonio&quot;,&#10;    &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 9999&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="163" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:26:55 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="fbd56813-2a86-47a9-a455-9d7613e89fe0" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&quot;name&quot;:&quot;Antonio&quot;,&quot;email&quot;:&quot;antonio@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 9999&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}]" />
+              <option name="size" value="163" />
+              <option name="time" value="18" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737815253330" />
+          <option name="id" value="301ff185-f33c-4556-95fc-7e8da19e25b5" />
+          <option name="request">
+            <requestState>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IkNhbm5vdCBkZXN0cnVjdHVyZSBwcm9wZXJ0eSAnbmFtZScgb2YgJ3JlcS5ib2R5JyBhcyBpdCBpcyB1bmRlZmluZWQuIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;Cannot destructure property 'name' of 'req.body' as it is undefined.&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="131" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:27:33 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="301ff185-f33c-4556-95fc-7e8da19e25b5" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Cannot destructure property 'name' of 'req.body' as it is undefined.&quot;}" />
+              <option name="size" value="131" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737815277755" />
+          <option name="id" value="8b4f4472-45cd-4d92-a769-5829a8a446dc" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Ana Laura&quot;,&#10;  &quot;email&quot;: &quot;ana@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+              <option name="method" value="POST" />
+              <option name="name" value="Create Contact" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjE2YTFmOTUzLWUyNGYtNDJkZS04NzkxLTFlN2IxMDZlYmIzYyIsIm5hbWUiOiJBbmEgTGF1cmEiLCJlbWFpbCI6ImFuYUB0ZXN0ZS5jb20iLCJwaG9uZSI6IjE3IDk5OTkgMDAwMCIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;  &quot;name&quot;: &quot;Ana Laura&quot;,&#10;  &quot;email&quot;: &quot;ana@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 0000&quot;,&#10;  &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="159" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:27:57 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="8b4f4472-45cd-4d92-a769-5829a8a446dc" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Laura&quot;,&quot;email&quot;:&quot;ana@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}" />
+              <option name="size" value="159" />
+              <option name="time" value="15" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737815283968" />
+          <option name="id" value="374b999e-5bc9-475c-a747-6a0022d02e3b" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="05cc8846-ac7c-4cde-ae87-ef9dffed676d" />
+              <option name="method" value="GET" />
+              <option name="name" value="list contacts" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2MjQ0YWU1ZC03OWJiLTRmNDQtOTAwZS01NmI0Njc1NWIzY2EiLCJuYW1lIjoiQW50b25pbyIsImVtYWlsIjoiYW50b25pb0B0ZXN0ZS5jb20iLCJwaG9uZSI6IjE3IDk5OTkgOTk5OSIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9LHsiaWQiOiIxNmExZjk1My1lMjRmLTQyZGUtODc5MS0xZTdiMTA2ZWJiM2MiLCJuYW1lIjoiQW5hIExhdXJhIiwiZW1haWwiOiJhbmFAdGVzdGUuY29tIiwicGhvbmUiOiIxNyA5OTk5IDAwMDAiLCJ1c2VySWQiOiJhZTJjOGE0MS0wMmFiLTQwZTgtYTA1ZC0yYzExOGU2YzAxNDAifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&#10;    &quot;name&quot;: &quot;Antonio&quot;,&#10;    &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 9999&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  },&#10;  {&#10;    &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;    &quot;name&quot;: &quot;Ana Laura&quot;,&#10;    &quot;email&quot;: &quot;ana@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 0000&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="323" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:28:03 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="374b999e-5bc9-475c-a747-6a0022d02e3b" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&quot;name&quot;:&quot;Antonio&quot;,&quot;email&quot;:&quot;antonio@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 9999&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;},{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Laura&quot;,&quot;email&quot;:&quot;ana@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}]" />
+              <option name="size" value="323" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737815347084" />
+          <option name="id" value="8e90060e-6515-4de5-aef5-e61f8a93ef25" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="05cc8846-ac7c-4cde-ae87-ef9dffed676d" />
+              <option name="method" value="GET" />
+              <option name="name" value="list contacts" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2MjQ0YWU1ZC03OWJiLTRmNDQtOTAwZS01NmI0Njc1NWIzY2EiLCJuYW1lIjoiQW50b25pbyIsImVtYWlsIjoiYW50b25pb0B0ZXN0ZS5jb20iLCJwaG9uZSI6IjE3IDk5OTkgOTk5OSIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9LHsiaWQiOiIxNmExZjk1My1lMjRmLTQyZGUtODc5MS0xZTdiMTA2ZWJiM2MiLCJuYW1lIjoiQW5hIExhdXJhIiwiZW1haWwiOiJhbmFAdGVzdGUuY29tIiwicGhvbmUiOiIxNyA5OTk5IDAwMDAiLCJ1c2VySWQiOiJhZTJjOGE0MS0wMmFiLTQwZTgtYTA1ZC0yYzExOGU2YzAxNDAifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&#10;    &quot;name&quot;: &quot;Antonio&quot;,&#10;    &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 9999&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  },&#10;  {&#10;    &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;    &quot;name&quot;: &quot;Ana Laura&quot;,&#10;    &quot;email&quot;: &quot;ana@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 0000&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="323" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:29:07 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="8e90060e-6515-4de5-aef5-e61f8a93ef25" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&quot;name&quot;:&quot;Antonio&quot;,&quot;email&quot;:&quot;antonio@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 9999&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;},{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Laura&quot;,&quot;email&quot;:&quot;ana@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}]" />
+              <option name="size" value="323" />
+              <option name="time" value="21" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816198688" />
+          <option name="id" value="91065f3f-bb3a-4d70-a020-2b32ebae6760" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="05cc8846-ac7c-4cde-ae87-ef9dffed676d" />
+              <option name="method" value="GET" />
+              <option name="name" value="list contacts" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2MjQ0YWU1ZC03OWJiLTRmNDQtOTAwZS01NmI0Njc1NWIzY2EiLCJuYW1lIjoiQW50b25pbyIsImVtYWlsIjoiYW50b25pb0B0ZXN0ZS5jb20iLCJwaG9uZSI6IjE3IDk5OTkgOTk5OSIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9LHsiaWQiOiIxNmExZjk1My1lMjRmLTQyZGUtODc5MS0xZTdiMTA2ZWJiM2MiLCJuYW1lIjoiQW5hIExhdXJhIiwiZW1haWwiOiJhbmFAdGVzdGUuY29tIiwicGhvbmUiOiIxNyA5OTk5IDAwMDAiLCJ1c2VySWQiOiJhZTJjOGE0MS0wMmFiLTQwZTgtYTA1ZC0yYzExOGU2YzAxNDAifV0=" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&#10;    &quot;name&quot;: &quot;Antonio&quot;,&#10;    &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 9999&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  },&#10;  {&#10;    &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;    &quot;name&quot;: &quot;Ana Laura&quot;,&#10;    &quot;email&quot;: &quot;ana@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 0000&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="323" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:43:18 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="91065f3f-bb3a-4d70-a020-2b32ebae6760" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&quot;name&quot;:&quot;Antonio&quot;,&quot;email&quot;:&quot;antonio@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 9999&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;},{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Laura&quot;,&quot;email&quot;:&quot;ana@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}]" />
+              <option name="size" value="323" />
+              <option name="time" value="18" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816222206" />
+          <option name="id" value="116c0024-4762-42ee-ab87-bb107d909b56" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Create Contact (1)" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3c" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IkNvbnRhY3Qgbm90IGZvdW5kIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;Contact not found&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="80" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:43:42 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="116c0024-4762-42ee-ab87-bb107d909b56" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Contact not found&quot;}" />
+              <option name="size" value="80" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816254990" />
+          <option name="id" value="db678156-c3e3-4b8f-be99-f3ede008be53" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3c" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IkNvbnRhY3Qgbm90IGZvdW5kIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;Contact not found&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="80" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:44:14 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="db678156-c3e3-4b8f-be99-f3ede008be53" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;Contact not found&quot;}" />
+              <option name="size" value="80" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816323003" />
+          <option name="id" value="d50905f5-3b79-4bb8-915d-62721b893c75" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3c" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjE2YTFmOTUzLWUyNGYtNDJkZS04NzkxLTFlN2IxMDZlYmIzYyIsIm5hbWUiOiJBbmEgQmVhdHJpeiIsImVtYWlsIjoiYW5hQGJlYXRyaXouY29tIiwicGhvbmUiOiIxNyA5Nzc3NyAwMDAwIiwidXNlcklkIjoiYWUyYzhhNDEtMDJhYi00MGU4LWEwNWQtMmMxMThlNmMwMTQwIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;,&#10;  &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="164" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:45:23 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="d50905f5-3b79-4bb8-915d-62721b893c75" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Beatriz&quot;,&quot;email&quot;:&quot;ana@beatriz.com&quot;,&quot;phone&quot;:&quot;17 97777 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}" />
+              <option name="size" value="164" />
+              <option name="time" value="24" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816327921" />
+          <option name="id" value="1fdcf36d-bd45-4a11-9c41-e2651eccd268" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="05cc8846-ac7c-4cde-ae87-ef9dffed676d" />
+              <option name="method" value="GET" />
+              <option name="name" value="list contacts" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2MjQ0YWU1ZC03OWJiLTRmNDQtOTAwZS01NmI0Njc1NWIzY2EiLCJuYW1lIjoiQW50b25pbyIsImVtYWlsIjoiYW50b25pb0B0ZXN0ZS5jb20iLCJwaG9uZSI6IjE3IDk5OTkgOTk5OSIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9LHsiaWQiOiIxNmExZjk1My1lMjRmLTQyZGUtODc5MS0xZTdiMTA2ZWJiM2MiLCJuYW1lIjoiQW5hIEJlYXRyaXoiLCJlbWFpbCI6ImFuYUBiZWF0cml6LmNvbSIsInBob25lIjoiMTcgOTc3NzcgMDAwMCIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&#10;    &quot;name&quot;: &quot;Antonio&quot;,&#10;    &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 9999&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  },&#10;  {&#10;    &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;    &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;    &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;    &quot;phone&quot;: &quot;17 97777 0000&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="328" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:45:27 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1fdcf36d-bd45-4a11-9c41-e2651eccd268" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&quot;name&quot;:&quot;Antonio&quot;,&quot;email&quot;:&quot;antonio@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 9999&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;},{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Beatriz&quot;,&quot;email&quot;:&quot;ana@beatriz.com&quot;,&quot;phone&quot;:&quot;17 97777 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}]" />
+              <option name="size" value="328" />
+              <option name="time" value="5" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816336869" />
+          <option name="id" value="364bb42f-4961-4d37-8ec9-3c3a8fd13c85" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImNvZGUiOiJQMjAyNSIsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IlxuSW52YWxpZCBgcHJpc21hLmNvbnRhY3RzLnVwZGF0ZSgpYCBpbnZvY2F0aW9uIGluXG4vaG9tZS9tYXJjby1hbnRvbmlvL05vZGUvYWdlbmRhL3NyYy9yZXBvc2l0b3JpZXMvY29udGFjdC5yZXBvc2l0b3J5LnByaXNtYS50czozODozMlxuXG4gIDM1IH1cbiAgMzYgXG4gIDM3IGFzeW5jIHVwZGF0ZSh7aWQsIHBob25lLCBuYW1lLCBlbWFpbH06IENvbnRhY3RJbnRlcmZhY2UpOiBQcm9taXNlPENvbnRhY3RJbnRlcmZhY2U+IHtcbuKGkiAzOCAgICAgcmV0dXJuIHByaXNtYS5jb250YWN0cy51cGRhdGUoXG5BbiBvcGVyYXRpb24gZmFpbGVkIGJlY2F1c2UgaXQgZGVwZW5kcyBvbiBvbmUgb3IgbW9yZSByZWNvcmRzIHRoYXQgd2VyZSByZXF1aXJlZCBidXQgbm90IGZvdW5kLiBSZWNvcmQgdG8gdXBkYXRlIG5vdCBmb3VuZC4ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;code&quot;: &quot;P2025&quot;,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:38:32\n\n  35 }\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n→ 38     return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="490" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:45:36 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="364bb42f-4961-4d37-8ec9-3c3a8fd13c85" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;code&quot;:&quot;P2025&quot;,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:38:32\n\n  35 }\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n→ 38     return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;}" />
+              <option name="size" value="490" />
+              <option name="time" value="13" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816402690" />
+          <option name="id" value="e4aca858-d126-4cd6-9884-99b523229ded" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImNvZGUiOiJQMjAyNSIsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IlxuSW52YWxpZCBgcHJpc21hLmNvbnRhY3RzLnVwZGF0ZSgpYCBpbnZvY2F0aW9uIGluXG4vaG9tZS9tYXJjby1hbnRvbmlvL05vZGUvYWdlbmRhL3NyYy9yZXBvc2l0b3JpZXMvY29udGFjdC5yZXBvc2l0b3J5LnByaXNtYS50czozOTozNlxuXG4gIDM2IFxuICAzNyBhc3luYyB1cGRhdGUoe2lkLCBwaG9uZSwgbmFtZSwgZW1haWx9OiBDb250YWN0SW50ZXJmYWNlKTogUHJvbWlzZTxDb250YWN0SW50ZXJmYWNlPiB7XG4gIDM4ICAgICB0cnkge1xu4oaSIDM5ICAgICAgICAgcmV0dXJuIHByaXNtYS5jb250YWN0cy51cGRhdGUoXG5BbiBvcGVyYXRpb24gZmFpbGVkIGJlY2F1c2UgaXQgZGVwZW5kcyBvbiBvbmUgb3IgbW9yZSByZWNvcmRzIHRoYXQgd2VyZSByZXF1aXJlZCBidXQgbm90IGZvdW5kLiBSZWNvcmQgdG8gdXBkYXRlIG5vdCBmb3VuZC4ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;code&quot;: &quot;P2025&quot;,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:39:36\n\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n  38     try {\n→ 39         return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="502" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:46:42 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e4aca858-d126-4cd6-9884-99b523229ded" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;code&quot;:&quot;P2025&quot;,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:39:36\n\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n  38     try {\n→ 39         return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;}" />
+              <option name="size" value="502" />
+              <option name="time" value="30" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816410498" />
+          <option name="id" value="878fe3c6-bc94-46cb-ac77-0878de27a841" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImNvZGUiOiJQMjAyNSIsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IlxuSW52YWxpZCBgcHJpc21hLmNvbnRhY3RzLnVwZGF0ZSgpYCBpbnZvY2F0aW9uIGluXG4vaG9tZS9tYXJjby1hbnRvbmlvL05vZGUvYWdlbmRhL3NyYy9yZXBvc2l0b3JpZXMvY29udGFjdC5yZXBvc2l0b3J5LnByaXNtYS50czozOTozNlxuXG4gIDM2IFxuICAzNyBhc3luYyB1cGRhdGUoe2lkLCBwaG9uZSwgbmFtZSwgZW1haWx9OiBDb250YWN0SW50ZXJmYWNlKTogUHJvbWlzZTxDb250YWN0SW50ZXJmYWNlPiB7XG4gIDM4ICAgICB0cnkge1xu4oaSIDM5ICAgICAgICAgcmV0dXJuIHByaXNtYS5jb250YWN0cy51cGRhdGUoXG5BbiBvcGVyYXRpb24gZmFpbGVkIGJlY2F1c2UgaXQgZGVwZW5kcyBvbiBvbmUgb3IgbW9yZSByZWNvcmRzIHRoYXQgd2VyZSByZXF1aXJlZCBidXQgbm90IGZvdW5kLiBSZWNvcmQgdG8gdXBkYXRlIG5vdCBmb3VuZC4ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;code&quot;: &quot;P2025&quot;,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:39:36\n\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n  38     try {\n→ 39         return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="502" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:46:50 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="878fe3c6-bc94-46cb-ac77-0878de27a841" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;code&quot;:&quot;P2025&quot;,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:39:36\n\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n  38     try {\n→ 39         return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;}" />
+              <option name="size" value="502" />
+              <option name="time" value="6" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816425612" />
+          <option name="id" value="aeed533b-c7e5-405e-87f9-be16f7f2f43a" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImNvZGUiOiJQMjAyNSIsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IlxuSW52YWxpZCBgcHJpc21hLmNvbnRhY3RzLnVwZGF0ZSgpYCBpbnZvY2F0aW9uIGluXG4vaG9tZS9tYXJjby1hbnRvbmlvL05vZGUvYWdlbmRhL3NyYy9yZXBvc2l0b3JpZXMvY29udGFjdC5yZXBvc2l0b3J5LnByaXNtYS50czozOTozNlxuXG4gIDM2IFxuICAzNyBhc3luYyB1cGRhdGUoe2lkLCBwaG9uZSwgbmFtZSwgZW1haWx9OiBDb250YWN0SW50ZXJmYWNlKTogUHJvbWlzZTxDb250YWN0SW50ZXJmYWNlPiB7XG4gIDM4ICAgICB0cnkge1xu4oaSIDM5ICAgICAgICAgcmV0dXJuIHByaXNtYS5jb250YWN0cy51cGRhdGUoXG5BbiBvcGVyYXRpb24gZmFpbGVkIGJlY2F1c2UgaXQgZGVwZW5kcyBvbiBvbmUgb3IgbW9yZSByZWNvcmRzIHRoYXQgd2VyZSByZXF1aXJlZCBidXQgbm90IGZvdW5kLiBSZWNvcmQgdG8gdXBkYXRlIG5vdCBmb3VuZC4ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;code&quot;: &quot;P2025&quot;,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:39:36\n\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n  38     try {\n→ 39         return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="502" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:47:05 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="aeed533b-c7e5-405e-87f9-be16f7f2f43a" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;code&quot;:&quot;P2025&quot;,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:39:36\n\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n  38     try {\n→ 39         return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;}" />
+              <option name="size" value="502" />
+              <option name="time" value="25" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816443339" />
+          <option name="id" value="245b7248-0694-418e-a890-5e7cc093c29a" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJzdGF0dXNDb2RlIjo1MDAsImNvZGUiOiJQMjAyNSIsImVycm9yIjoiSW50ZXJuYWwgU2VydmVyIEVycm9yIiwibWVzc2FnZSI6IlxuSW52YWxpZCBgcHJpc21hLmNvbnRhY3RzLnVwZGF0ZSgpYCBpbnZvY2F0aW9uIGluXG4vaG9tZS9tYXJjby1hbnRvbmlvL05vZGUvYWdlbmRhL3NyYy9yZXBvc2l0b3JpZXMvY29udGFjdC5yZXBvc2l0b3J5LnByaXNtYS50czozOTozNlxuXG4gIDM2IFxuICAzNyBhc3luYyB1cGRhdGUoe2lkLCBwaG9uZSwgbmFtZSwgZW1haWx9OiBDb250YWN0SW50ZXJmYWNlKTogUHJvbWlzZTxDb250YWN0SW50ZXJmYWNlPiB7XG4gIDM4ICAgICB0cnkge1xu4oaSIDM5ICAgICAgICAgcmV0dXJuIHByaXNtYS5jb250YWN0cy51cGRhdGUoXG5BbiBvcGVyYXRpb24gZmFpbGVkIGJlY2F1c2UgaXQgZGVwZW5kcyBvbiBvbmUgb3IgbW9yZSByZWNvcmRzIHRoYXQgd2VyZSByZXF1aXJlZCBidXQgbm90IGZvdW5kLiBSZWNvcmQgdG8gdXBkYXRlIG5vdCBmb3VuZC4ifQ==" />
+              <option name="bodyString" value="{&#10;  &quot;statusCode&quot;: 500,&#10;  &quot;code&quot;: &quot;P2025&quot;,&#10;  &quot;error&quot;: &quot;Internal Server Error&quot;,&#10;  &quot;message&quot;: &quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:39:36\n\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n  38     try {\n→ 39         return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;&#10;}" />
+              <option name="code" value="500" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="502" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:47:23 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="245b7248-0694-418e-a890-5e7cc093c29a" />
+              <option name="message" value="Internal Server Error" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;statusCode&quot;:500,&quot;code&quot;:&quot;P2025&quot;,&quot;error&quot;:&quot;Internal Server Error&quot;,&quot;message&quot;:&quot;\nInvalid `prisma.contacts.update()` invocation in\n/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:39:36\n\n  36 \n  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {\n  38     try {\n→ 39         return prisma.contacts.update(\nAn operation failed because it depends on one or more records that were required but not found. Record to update not found.&quot;}" />
+              <option name="size" value="502" />
+              <option name="time" value="31" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816485656" />
+          <option name="id" value="6520a1a5-a220-4e39-af03-486ff8583162" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="CkludmFsaWQgYHByaXNtYS5jb250YWN0cy51cGRhdGUoKWAgaW52b2NhdGlvbiBpbgovaG9tZS9tYXJjby1hbnRvbmlvL05vZGUvYWdlbmRhL3NyYy9yZXBvc2l0b3JpZXMvY29udGFjdC5yZXBvc2l0b3J5LnByaXNtYS50czozODozMgoKICAzNSB9CiAgMzYgCiAgMzcgYXN5bmMgdXBkYXRlKHtpZCwgcGhvbmUsIG5hbWUsIGVtYWlsfTogQ29udGFjdEludGVyZmFjZSk6IFByb21pc2U8Q29udGFjdEludGVyZmFjZT4gewrihpIgMzggICAgIHJldHVybiBwcmlzbWEuY29udGFjdHMudXBkYXRlKApBbiBvcGVyYXRpb24gZmFpbGVkIGJlY2F1c2UgaXQgZGVwZW5kcyBvbiBvbmUgb3IgbW9yZSByZWNvcmRzIHRoYXQgd2VyZSByZXF1aXJlZCBidXQgbm90IGZvdW5kLiBSZWNvcmQgdG8gdXBkYXRlIG5vdCBmb3VuZC4=" />
+              <option name="bodyString" value="&#10;Invalid `prisma.contacts.update()` invocation in&#10;/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:38:32&#10;&#10;  35 }&#10;  36 &#10;  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {&#10;→ 38     return prisma.contacts.update(&#10;An operation failed because it depends on one or more records that were required but not found. Record to update not found." />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="404" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:48:05 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6520a1a5-a220-4e39-af03-486ff8583162" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="&#10;Invalid `prisma.contacts.update()` invocation in&#10;/home/marco-antonio/Node/agenda/src/repositories/contact.repository.prisma.ts:38:32&#10;&#10;  35 }&#10;  36 &#10;  37 async update({id, phone, name, email}: ContactInterface): Promise&lt;ContactInterface&gt; {&#10;→ 38     return prisma.contacts.update(&#10;An operation failed because it depends on one or more records that were required but not found. Record to update not found." />
+              <option name="size" value="404" />
+              <option name="time" value="24" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816518954" />
+          <option name="id" value="6a9ac487-3d89-4580-a8ab-44fda78c52b6" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="05cc8846-ac7c-4cde-ae87-ef9dffed676d" />
+              <option name="method" value="GET" />
+              <option name="name" value="list contacts" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2MjQ0YWU1ZC03OWJiLTRmNDQtOTAwZS01NmI0Njc1NWIzY2EiLCJuYW1lIjoiQW50b25pbyIsImVtYWlsIjoiYW50b25pb0B0ZXN0ZS5jb20iLCJwaG9uZSI6IjE3IDk5OTkgOTk5OSIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9LHsiaWQiOiIxNmExZjk1My1lMjRmLTQyZGUtODc5MS0xZTdiMTA2ZWJiM2MiLCJuYW1lIjoiQW5hIEJlYXRyaXoiLCJlbWFpbCI6ImFuYUBiZWF0cml6LmNvbSIsInBob25lIjoiMTcgOTc3NzcgMDAwMCIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&#10;    &quot;name&quot;: &quot;Antonio&quot;,&#10;    &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 9999&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  },&#10;  {&#10;    &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;    &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;    &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;    &quot;phone&quot;: &quot;17 97777 0000&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="2" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="328" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:48:38 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6a9ac487-3d89-4580-a8ab-44fda78c52b6" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&quot;name&quot;:&quot;Antonio&quot;,&quot;email&quot;:&quot;antonio@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 9999&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;},{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Beatriz&quot;,&quot;email&quot;:&quot;ana@beatriz.com&quot;,&quot;phone&quot;:&quot;17 97777 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}]" />
+              <option name="size" value="328" />
+              <option name="time" value="21" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737816631352" />
+          <option name="id" value="33d1d635-43b5-432e-80fe-e6ce9e0a9789" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Update Contact" />
+              <option name="sortWeight" value="3000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3c" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="eyJpZCI6IjE2YTFmOTUzLWUyNGYtNDJkZS04NzkxLTFlN2IxMDZlYmIzYyIsIm5hbWUiOiJBbmEgQmVhdHJpeiIsImVtYWlsIjoiYW5hQGJlYXRyaXouY29tIiwicGhvbmUiOiIxNyA5Nzc3NyAwMDAwIiwidXNlcklkIjoiYWUyYzhhNDEtMDJhYi00MGU4LWEwNWQtMmMxMThlNmMwMTQwIn0=" />
+              <option name="bodyString" value="{&#10;  &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;,&#10;  &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;}" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="164" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 14:50:31 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="33d1d635-43b5-432e-80fe-e6ce9e0a9789" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Beatriz&quot;,&quot;email&quot;:&quot;ana@beatriz.com&quot;,&quot;phone&quot;:&quot;17 97777 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}" />
+              <option name="size" value="164" />
+              <option name="time" value="20" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737820680334" />
+          <option name="id" value="f0bf5ae9-52e2-42a8-85cc-a6ac3283c0b4" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="05cc8846-ac7c-4cde-ae87-ef9dffed676d" />
+              <option name="method" value="GET" />
+              <option name="name" value="list contacts" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiI2MjQ0YWU1ZC03OWJiLTRmNDQtOTAwZS01NmI0Njc1NWIzY2EiLCJuYW1lIjoiQW50b25pbyIsImVtYWlsIjoiYW50b25pb0B0ZXN0ZS5jb20iLCJwaG9uZSI6IjE3IDk5OTkgOTk5OSIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9LHsiaWQiOiIxNmExZjk1My1lMjRmLTQyZGUtODc5MS0xZTdiMTA2ZWJiM2MiLCJuYW1lIjoiQW5hIEJlYXRyaXoiLCJlbWFpbCI6ImFuYUBiZWF0cml6LmNvbSIsInBob25lIjoiMTcgOTc3NzcgMDAwMCIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&#10;    &quot;name&quot;: &quot;Antonio&quot;,&#10;    &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;    &quot;phone&quot;: &quot;17 9999 9999&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  },&#10;  {&#10;    &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;    &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;    &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;    &quot;phone&quot;: &quot;17 97777 0000&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="328" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 15:58:00 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="f0bf5ae9-52e2-42a8-85cc-a6ac3283c0b4" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;6244ae5d-79bb-4f44-900e-56b46755b3ca&quot;,&quot;name&quot;:&quot;Antonio&quot;,&quot;email&quot;:&quot;antonio@teste.com&quot;,&quot;phone&quot;:&quot;17 9999 9999&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;},{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Beatriz&quot;,&quot;email&quot;:&quot;ana@beatriz.com&quot;,&quot;phone&quot;:&quot;17 97777 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}]" />
+              <option name="size" value="328" />
+              <option name="time" value="18" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737820722115" />
+          <option name="id" value="c0b187bd-acb7-4f52-bce0-f5af2f970cec" />
+          <option name="request">
+            <requestState>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6614876c-29bc-47df-a281-348f84823dc5" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="Delete Contact" />
+              <option name="sortWeight" value="4000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts/6244ae5d-79bb-4f44-900e-56b46755b3ca" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="dHJ1ZQ==" />
+              <option name="bodyString" value="true" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="4" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 15:58:42 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c0b187bd-acb7-4f52-bce0-f5af2f970cec" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="true" />
+              <option name="size" value="4" />
+              <option name="time" value="10" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1737820727258" />
+          <option name="id" value="42b1cb78-4129-4c8c-92be-a9902dd7a1e6" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="email" />
+                    <option name="value" value="marco@marco.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="05cc8846-ac7c-4cde-ae87-ef9dffed676d" />
+              <option name="method" value="GET" />
+              <option name="name" value="list contacts" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="{{globals.baseUrl}}/contacts" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="W3siaWQiOiIxNmExZjk1My1lMjRmLTQyZGUtODc5MS0xZTdiMTA2ZWJiM2MiLCJuYW1lIjoiQW5hIEJlYXRyaXoiLCJlbWFpbCI6ImFuYUBiZWF0cml6LmNvbSIsInBob25lIjoiMTcgOTc3NzcgMDAwMCIsInVzZXJJZCI6ImFlMmM4YTQxLTAyYWItNDBlOC1hMDVkLTJjMTE4ZTZjMDE0MCJ9XQ==" />
+              <option name="bodyString" value="[&#10;  {&#10;    &quot;id&quot;: &quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&#10;    &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;    &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;    &quot;phone&quot;: &quot;17 97777 0000&quot;,&#10;    &quot;userId&quot;: &quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;&#10;  }&#10;]" />
+              <option name="code" value="200" />
+              <option name="connectionEstablishingTime" value="1" />
+              <option name="contentType" value="application/json; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="application/json; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="166" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Date" />
+                    <option name="value" value="Sat, 25 Jan 2025 15:58:47 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Connection" />
+                    <option name="value" value="keep-alive" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="Keep-Alive" />
+                    <option name="value" value="timeout=72" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="42b1cb78-4129-4c8c-92be-a9902dd7a1e6" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="JSON" />
+              <option name="rawBodyString" value="[{&quot;id&quot;:&quot;16a1f953-e24f-42de-8791-1e7b106ebb3c&quot;,&quot;name&quot;:&quot;Ana Beatriz&quot;,&quot;email&quot;:&quot;ana@beatriz.com&quot;,&quot;phone&quot;:&quot;17 97777 0000&quot;,&quot;userId&quot;:&quot;ae2c8a41-02ab-40e8-a05d-2c118e6c0140&quot;}]" />
+              <option name="size" value="166" />
+              <option name="time" value="4" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>

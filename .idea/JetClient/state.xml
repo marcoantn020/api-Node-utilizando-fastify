@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="environmentGroups">
+            <list>
+              <environmentGroupState>
+                <option name="name" value="Default" />
+              </environmentGroupState>
+            </list>
+          </option>
+          <option name="folders">
+            <list>
+              <folderState>
+                <option name="folders">
+                  <list>
+                    <folderState>
+                      <option name="id" value="0609cce1-a20e-4bbe-9538-0f2f40aa0aa4" />
+                      <option name="name" value="User" />
+                      <option name="requests">
+                        <list>
+                          <requestState>
+                            <option name="body">
+                              <bodyState>
+                                <option name="raw" value="{&#10;  name: &quot;antonio&quot;,&#10;  email: &quot;antonio@antonio.com&quot;&#10;}" />
+                                <option name="type" value="JSON" />
+                              </bodyState>
+                            </option>
+                            <option name="id" value="8ab8844a-11aa-4b4e-a477-df93c829128c" />
+                            <option name="method" value="POST" />
+                            <option name="name" value="Create user" />
+                            <option name="sortWeight" value="1000000" />
+                            <option name="url" value="{{globals.baseUrl}}/users" />
+                          </requestState>
+                        </list>
+                      </option>
+                      <option name="sortWeight" value="1000000" />
+                    </folderState>
+                    <folderState>
+                      <option name="id" value="8b246d1e-38f6-4121-ba59-1055f5779ffc" />
+                      <option name="name" value="Contact" />
+                      <option name="requests">
+                        <list>
+                          <requestState>
+                            <option name="body">
+                              <bodyState>
+                                <option name="raw" value="{&#10;  name: &quot;Ana Laura&quot;,&#10;  &quot;email&quot;: &quot;ana@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 0000&quot;&#10;}" />
+                                <option name="type" value="JSON" />
+                              </bodyState>
+                            </option>
+                            <option name="headers">
+                              <list>
+                                <headerState>
+                                  <option name="key" value="email" />
+                                  <option name="value" value="marco@marco.com" />
+                                </headerState>
+                              </list>
+                            </option>
+                            <option name="id" value="e499e563-deec-4b54-ac98-fef60794d403" />
+                            <option name="method" value="POST" />
+                            <option name="name" value="Create Contact" />
+                            <option name="sortWeight" value="1000000" />
+                            <option name="url" value="{{globals.baseUrl}}/contacts" />
+                          </requestState>
+                          <requestState>
+                            <option name="body">
+                              <bodyState>
+                                <option name="raw" value="{&#10;  name: &quot;Antonio&quot;,&#10;  &quot;email&quot;: &quot;antonio@teste.com&quot;,&#10;  &quot;phone&quot;: &quot;17 9999 9999&quot;&#10;}" />
+                                <option name="type" value="JSON" />
+                              </bodyState>
+                            </option>
+                            <option name="headers">
+                              <list>
+                                <headerState>
+                                  <option name="key" value="email" />
+                                  <option name="value" value="marco@marco.com" />
+                                </headerState>
+                              </list>
+                            </option>
+                            <option name="id" value="05cc8846-ac7c-4cde-ae87-ef9dffed676d" />
+                            <option name="method" value="GET" />
+                            <option name="name" value="list contacts" />
+                            <option name="sortWeight" value="2000000" />
+                            <option name="url" value="{{globals.baseUrl}}/contacts" />
+                          </requestState>
+                          <requestState>
+                            <option name="body">
+                              <bodyState>
+                                <option name="raw" value="{&#10;  &quot;name&quot;: &quot;Ana Beatriz&quot;,&#10;  &quot;email&quot;: &quot;ana@beatriz.com&quot;,&#10;  &quot;phone&quot;: &quot;17 97777 0000&quot;&#10;}" />
+                                <option name="type" value="JSON" />
+                              </bodyState>
+                            </option>
+                            <option name="headers">
+                              <list>
+                                <headerState>
+                                  <option name="key" value="email" />
+                                  <option name="value" value="marco@marco.com" />
+                                </headerState>
+                              </list>
+                            </option>
+                            <option name="id" value="ce2ae1db-22fe-429d-99e5-58db06bcf3a6" />
+                            <option name="method" value="PUT" />
+                            <option name="name" value="Update Contact" />
+                            <option name="sortWeight" value="3000000" />
+                            <option name="url" value="{{globals.baseUrl}}/contacts/16a1f953-e24f-42de-8791-1e7b106ebb3c" />
+                          </requestState>
+                          <requestState>
+                            <option name="headers">
+                              <list>
+                                <headerState>
+                                  <option name="key" value="email" />
+                                  <option name="value" value="marco@marco.com" />
+                                </headerState>
+                              </list>
+                            </option>
+                            <option name="id" value="6614876c-29bc-47df-a281-348f84823dc5" />
+                            <option name="method" value="DELETE" />
+                            <option name="name" value="Delete Contact" />
+                            <option name="sortWeight" value="4000000" />
+                            <option name="url" value="{{globals.baseUrl}}/contacts/6244ae5d-79bb-4f44-900e-56b46755b3ca" />
+                          </requestState>
+                        </list>
+                      </option>
+                      <option name="sortWeight" value="2000000" />
+                    </folderState>
+                  </list>
+                </option>
+                <option name="id" value="1c6d9fc9-3e58-448a-9f87-379e6c38f004" />
+                <option name="name" value="Agenda" />
+                <option name="sortWeight" value="1000000" />
+                <option name="variables">
+                  <variablesState>
+                    <option name="json" value="{&#10;  globals: {&#10;    baseUrl: &quot;http://localhost:3000&quot;&#10;  }&#10;}" />
+                  </variablesState>
+                </option>
+              </folderState>
+            </list>
+          </option>
+          <option name="id" value="72b31119-1a32-4fc6-af6b-d69db6536d0c" />
+          <option name="name" value="API" />
+          <option name="selectedEnvironmentIds">
+            <map>
+              <entry key="default" />
+            </map>
+          </option>
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="autoSync" value="true" />
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="4f969cf2-2b50-45e5-a0b5-6530cdac031f" />
+    <option name="version" value="6" />
+  </component>
+</project>
